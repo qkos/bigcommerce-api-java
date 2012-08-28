@@ -1,4 +1,4 @@
-package com.bigcommerce.api;
+package com.bigcommerce.api.http;
 
 import java.io.InputStream;
 import java.io.OutputStreamWriter;

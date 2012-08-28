@@ -6,6 +6,9 @@ import java.util.List;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
+import com.bigcommerce.api.http.Connection;
+import com.bigcommerce.api.resource.Product;
+
 /**
  * Facade for accessing a BigCommerce store via the REST API.
  */

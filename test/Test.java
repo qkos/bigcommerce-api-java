@@ -1,4 +1,4 @@
-import com.bigcommerce.api.Connection;
+import com.bigcommerce.api.http.Connection;
 
 public class Test
 {
